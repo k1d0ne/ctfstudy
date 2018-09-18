@@ -20,6 +20,6 @@ if ($GetIPs=="1.1.1.1"){
 echo "Great! Key is *********";
 }
 else{
-echo "错误！你的IP不在访问列表之内！";
+echo "你的IP错误，无法访问到flag！";
 }
 ?>

@@ -1,1 +1,1 @@
-# ctfstudy
+# ctf分类的入门教学题
